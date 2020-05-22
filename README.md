@@ -6,6 +6,11 @@
 <p align="center">
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
          alt="python-v3.6+">
+    <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg"
+         alt="license-MIT">
+    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
+         alt="contributions-welcome">
 </p>
 
 <h2>📘 Problem statement:</h2>
