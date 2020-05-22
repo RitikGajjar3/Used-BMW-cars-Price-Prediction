@@ -4,15 +4,16 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 <h2>📘 Problem statement:</h2>
-This project is based on social media link prediction whether two users are going to be friend in future or not.
+We have a dataset containing prices of used BMW cars. We are going to analyze this dataset and build a prediction function that can predict a price by taking mileage and age of the car as input.
 
 <h2>📦 Data Overview</h2>
-Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/c/FacebookRecruiting 
-data contains two columns source and destination eac edge in graph
+Taken data from bmw cars prices on kaggle https://www.kaggle.com/shivadumnawar/bmw-car-prices
+data contains three columns Mileage(kms), Age(yrs) and Sell Price($)
 
-- Data columns (total 2 columns):  
-- source_node         int64  
-- destination_node    int64  
+- Data columns (total 3 columns):  
+- Mileage(kms)
+- Age(yrs)
+- Sell Price($)
 
 ### ✅  Requirements
 
