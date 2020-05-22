@@ -22,9 +22,9 @@ Taken data from bmw cars prices on kaggle (Source: https://www.kaggle.com/shivad
 data contains three columns Mileage(kms), Age(yrs) and Sell Price($)
 
 - Data columns (total 3 columns):  
-- Mileage(kms)
-- Age(yrs)
-- Sell Price($)
+    - Mileage(kms)
+    - Age(yrs)
+    - Sell Price($)
 
 ### ✅  Requirements
 
