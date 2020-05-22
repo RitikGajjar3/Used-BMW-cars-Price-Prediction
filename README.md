@@ -1,15 +1,13 @@
-### Machine Learning Regression: ##Used BMW cars Price Prediction
+### Machine Learning Regression: ## Used BMW cars Price Prediction
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![Build Status](https://travis-ci.org/anfederico/Clairvoyant.svg?branch=master)](https://travis-ci.org/anfederico/Clairvoyant)
-![Contributions welcome](https://github.com/RitikGajjar3/Used-BMW-cars-Price-Prediction)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ritik-gajjar-96b515191/]
 
-<h2>Problem statement:</h2>
+<h2>📘 Problem statement:</h2>
 This project is based on social media link prediction whether two users are going to be friend in future or not.
 
-<h3>Data Overview</h3>
+<h2>📦 Data Overview</h2>
 Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/c/FacebookRecruiting 
 data contains two columns source and destination eac edge in graph
 
