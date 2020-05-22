@@ -18,8 +18,9 @@
 We have a dataset containing prices of used BMW cars. We are going to analyze this dataset and build a prediction function that can predict a price by taking mileage and age of the car as input.
 
 <h2>📦 Data Overview</h2>
-Taken data from bmw cars prices on kaggle (Source: https://www.kaggle.com/shivadumnawar/bmw-car-prices) data contains three columns 
-Mileage(kms), Age(yrs) and Sell Price($)
+Taken data from bmw cars prices on kaggle (Source: https://www.kaggle.com/shivadumnawar/bmw-car-prices) 
+data contains three columns Mileage(kms), Age(yrs) and Sell Price($)
+
 - Data columns (total 3 columns):  
 - Mileage(kms)
 - Age(yrs)
