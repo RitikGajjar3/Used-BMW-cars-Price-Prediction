@@ -1,7 +1,4 @@
 # <p align="center">Machine Learning Regression: Used BMW cars Price Prediction</p>
-<p align="center">
-  <img width="500" height="300" src="https://media.giphy.com/media/cYHPG7CgfTM9DzW8YL/giphy.gif">
-</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
@@ -11,6 +8,10 @@
          alt="license-MIT">
     <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
          alt="contributions-welcome">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="https://media.giphy.com/media/cYHPG7CgfTM9DzW8YL/giphy.gif">
 </p>
 
 <h2>📘 Problem statement:</h2>
