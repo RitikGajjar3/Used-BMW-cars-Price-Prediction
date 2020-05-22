@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ritik-gajjar-96b515191/]
 
 <h2>📘 Problem statement:</h2>
 This project is based on social media link prediction whether two users are going to be friend in future or not.
@@ -40,5 +39,6 @@ MIT © RitikGajjar3
 ## 🤝 Contact
 
 Email Id: ritik.gajjar.3@gmail.com
+Linkedin: https://www.linkedin.com/in/ritik-gajjar/
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/RitikGajjar3)
