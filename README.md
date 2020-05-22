@@ -6,6 +6,16 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ritik-gajjar-96b515191/]
 
+<h2>Problem statement:</h2>
+This project is based on social media link prediction whether two users are going to be friend in future or not.
+
+<h3>Data Overview</h3>
+Taken data from facebook's recruting challenge on kaggle https://www.kaggle.com/c/FacebookRecruiting 
+data contains two columns source and destination eac edge in graph
+
+- Data columns (total 2 columns):  
+- source_node         int64  
+- destination_node    int64  
 
 ### ✅  Requirements
 
