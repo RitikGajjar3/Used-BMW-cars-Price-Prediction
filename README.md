@@ -39,6 +39,7 @@ MIT © RitikGajjar3
 ## 🤝 Contact
 
 Email Id: ritik.gajjar.3@gmail.com
+
 Linkedin: https://www.linkedin.com/in/ritik-gajjar/
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/RitikGajjar3)
