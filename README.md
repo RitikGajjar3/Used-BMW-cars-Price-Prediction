@@ -19,7 +19,7 @@ We have a dataset containing prices of used BMW cars. We are going to analyze th
 
 <h2>📦 Data Overview</h2>
 Taken data from bmw cars prices on kaggle (Source: https://www.kaggle.com/shivadumnawar/bmw-car-prices) 
-data contains three columns Mileage(kms), Age(yrs) and Sell Price($)
+data contains three columns Mileage(kms), Age(yrs) and Sell Price($).
 
 - Data columns (total 3 columns):  
     - Mileage(kms)
