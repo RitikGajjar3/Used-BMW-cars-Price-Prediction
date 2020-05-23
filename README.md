@@ -42,6 +42,9 @@ Jupyter notebook (IPython)
 2. Clone your copy on your local system
 3. Install necessary packages
 
+## 📚 Reference
+* GIF: https://media.giphy.com/media/cYHPG7CgfTM9DzW8YL/giphy.gif
+
 ## 📜 License
 
 This software is licensed under the [MIT](https://github.com/RitikGajjar3/Used-BMW-cars-Price-Prediction/blob/master/LICENSE)
