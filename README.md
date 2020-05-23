@@ -3,11 +3,15 @@
 <p align="center">
     <img src="https://img.shields.io/badge/python-v3.6+-blue.svg"
          alt="python-v3.6+">
+    <img src="https://img.shields.io/badge/Machine-Learning-red.svg"
+         alt="Machine-Learning">
+    <img src="https://img.shields.io/badge/Linear-regression-yellow.svg"
+         alt="Linear-regression">
+    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
+         alt="contributions-welcome">
     <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/license-MIT-green.svg"
          alt="license-MIT">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg"
-         alt="contributions-welcome">
 </p>
 
 <p align="center">
